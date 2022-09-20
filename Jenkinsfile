@@ -16,8 +16,6 @@ pipeline{
             }
         
                 
-        }
-<<<<<<< HEAD
         stage("Push Image to Dockerhub") {
             steps {
             steps {
